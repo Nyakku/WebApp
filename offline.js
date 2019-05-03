@@ -1,0 +1,29 @@
+﻿{
+	"version": 1556575702,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-2.1.1.min.js",
+		"offlineClient.js",
+		"images/tiledbackground.png",
+		"images/hitbox-sheet0.png",
+		"images/ship-sheet0.png",
+		"images/ship-sheet1.png",
+		"images/sprite2-sheet0.png",
+		"images/parameterized-sheet0.png",
+		"images/sprite3-sheet0.png",
+		"images/http-sheet0.png",
+		"images/phone-sheet0.png",
+		"images/sprite4-sheet0.png",
+		"images/boss-sheet0.png",
+		"media/djassass1nfragoutprivated.ogg",
+		"media/dmgalaxyparalyzeddisfigure.ogg",
+		"media/spacegunsoundsmp3cutnet.ogg",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
