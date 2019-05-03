@@ -1,0 +1,26 @@
+import java.awt.*;
+import java.applet.*;
+import java.io.*;
+
+public class SHA1App extends Applet implements ActionListener{
+  
+  public void init(){
+    button1 = new Button("Button 1");
+    add(button1);
+    button1.addActionListener(this);
+    
+  }
+  
+  
+    public static void main(String[] args){
+      
+      
+      
+    }
+    
+    public void actionPerformed(ActionEvent e){
+      if(e.getSource() == button1){
+        System.out.println("pressed");
+      }
+    }
+}
